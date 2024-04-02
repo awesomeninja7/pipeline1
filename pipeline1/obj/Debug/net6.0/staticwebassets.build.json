@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MANknqULUzoy03IiTh+FnaLjCcsAf54XQptN3NaPHjM=",
+  "Source": "pipeline1",
+  "BasePath": "_content/pipeline1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
